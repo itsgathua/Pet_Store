@@ -41,3 +41,9 @@
     color: aqua;
     border-bottom: 3px solid aqua;
 }
+.welcomep{
+    padding-left: 15px;
+    font-size: 18px;
+    font-family: sans-serif;
+    font-weight: 400;
+}
